@@ -1,4 +1,8 @@
 R1,CAT_A
 R2,CAT_A
 R3,CAT_A
+<<<<<<< HEAD
 R4,CAT_A
+=======
+R4,CAT_A
+>>>>>>> fe2d087bd53caaf7e047699c571940685a039162
